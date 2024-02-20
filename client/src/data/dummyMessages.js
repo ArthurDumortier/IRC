@@ -1,0 +1,73 @@
+// Dummy messages for demonstration
+export const dummyMessages = [
+	{
+		id: 1,
+		text: "Hey there!",
+		sender: { name: "Alice" },
+		time: "10:00 AM",
+		date: "2023-01-01",
+	},
+	{
+		id: 2,
+		text: "How's it going?",
+		sender: { name: "Bob" },
+		time: "10:02 AM",
+		date: "2023-01-01",
+	},
+	{
+		id: 3,
+		text: "Did you see the game last night?",
+		sender: { name: "Charlie" },
+		time: "10:05 AM",
+		date: "2023-01-01",
+	},
+	{
+		id: 4,
+		text: "Yes, it was amazing!",
+		sender: { name: "Alice" },
+		time: "10:06 AM",
+		date: "2023-01-01",
+	},
+	{
+		id: 5,
+		text: "I can't believe that play in the last minute.",
+		sender: { name: "Bob" },
+		time: "10:07 AM",
+		date: "2023-01-01",
+	},
+	{
+		id: 6,
+		text: "Absolutely thrilling!",
+		sender: { name: "Charlie" },
+		time: "10:09 AM",
+		date: "2023-01-01",
+	},
+	{
+		id: 7,
+		text: "Going out for lunch today?",
+		sender: { name: "Alice" },
+		time: "10:10 AM",
+		date: "2023-01-01",
+	},
+	{
+		id: 8,
+		text: "Sure, where to?",
+		sender: { name: "Bob" },
+		time: "10:12 AM",
+		date: "2023-01-01",
+	},
+	{
+		id: 9,
+		text: "How about that new pizza place?",
+		sender: { name: "Charlie" },
+		time: "10:15 AM",
+		date: "2023-01-01",
+	},
+	{
+		id: 10,
+		text: "Sounds great, see you there at 12!",
+		sender: { name: "Alice" },
+		time: "10:17 AM",
+		date: "2023-01-01",
+	},
+];
